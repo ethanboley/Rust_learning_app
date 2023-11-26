@@ -18,7 +18,7 @@ I think Rust is a powerful language that is just as fast and strong as C and is 
 
 - [Rust home page and documentation](https://www.rust-lang.org/learn)
 - [Rust tutorial](https://www.youtube.com/watch?v=ygL_xcavzQ4)
-- [Google](google.com)
+- [Google](https://www.google.com/)
 
 # Future Work
 
